@@ -18,3 +18,7 @@ GPT-2
 XLNET
 1. Text Summarization with BERT
 BERT (Bidirectional transformer) is a transformer used to overcome the limitations of RNN and other neural networks as Long term dependencies. It is a pre-trained model that is naturally bidirectional. This pre-trained model can be tuned to easily perform the NLP tasks as specified, Summarization in our case.
+2. Text Summarization with GPT-2
+The Generative Pre-trained Transformer 2 (which has around 1 billion parameters) and can only imagine the power of the most recent GPT3 which has 175 billion parameters! It can write from software codes to mind-blowing stories!
+3. Text Summarization with XLNet
+XLNet is particularly interesting for language generation because it is pre-trained in a regressive manner similar to the GPT family of models.
